@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "CircularSp";
+  src: url("/Circular/CircularSp-Book.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "CircularSp";
+  src: url("/Circular/CircularSp-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* CircularSpTitle */
+
+@font-face {
+  font-family: "CircularSpTitle";
+  src: url("/Circular/CircularSpTitle-Book.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "CircularSpTitle";
+  src: url("/Circular/CircularSpTitle-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+}
+
+body,
+html {
+  font-family: "CircularSp", sans-serif;
+  background-color: #121212;
+  line-height: 1.6;
+}
