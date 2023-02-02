@@ -15,7 +15,7 @@ export default function Header({ color }: { color: string }) {
 
 	useEffect(() => {
 		setUser({
-			name: 'Adib Fhaimi',
+			name: 'Adib Fahimi',
 			image: null,
 		});
 	}, []);
