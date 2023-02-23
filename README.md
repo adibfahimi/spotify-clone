@@ -20,7 +20,7 @@ A clone of the popular music streaming platform, Spotify.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/[your_username]/spotify-clone.git
+git clone https://github.com/adibfahimi/spotify-clone.git
 ```
 
 2. Navigate to the project directory:
